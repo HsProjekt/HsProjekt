@@ -4,7 +4,7 @@
 - I like JavaScript, if you do not agree, face the consequences.
 - I am always learning a bit more.
 - I do not really like people.
-- I ditch my projects
+- I ditch my projects.
 <br />
 
 ### Curently working on:

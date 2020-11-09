@@ -1,6 +1,6 @@
-# HsProjekt's Profile
+# HsProjekt
 
-## Hey, I am a programmer.
+## Things you might want to know:
 - I like JavaScript, if you do not agree, face the consequences.
 - I am always learning a bit more.
 - I do not really like people.
@@ -8,7 +8,7 @@
 <br />
 
 ### Curently working on:
-Nothing.
+Nothing. T.B.U.
 <br />
 
 ### Languages and Tools:
